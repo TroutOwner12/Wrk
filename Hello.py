@@ -1,1 +1,1 @@
-# not in front of the huzz
+print ("Hello world")
